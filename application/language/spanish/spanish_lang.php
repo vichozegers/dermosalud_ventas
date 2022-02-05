@@ -159,14 +159,14 @@ $lang['CustomerDiscount'] = "Descuento";
 $lang['AddCustomer'] = "Agregar Cliente";
 
 // ********************* Waiter page *********************
-$lang['WaiterName'] = "Nombre camarero";
-$lang['withoutWaiter'] = "sin camarero";
+$lang['WaiterName'] = "Nombre Vendedor";
+$lang['withoutWaiter'] = "sin vendedor";
 $lang['WaiterPhone'] = "Teléfono";
 $lang['WaiterEmail'] = "Email";
 $lang['WaiterStore'] = "Almacenar";
-$lang['AddWaiter'] = "Añadir camarero";
-$lang['Waiters'] = "Los camareros";
-$lang['Waiter'] = "Camarero";
+$lang['AddWaiter'] = "Añadir vendedor";
+$lang['Waiters'] = "Los vendedores";
+$lang['Waiter'] = "Vendedor";
 
 // ********************* Supplier page *********************
 $lang['SupplierName'] = "Nombre del proveedor";
@@ -241,16 +241,16 @@ $lang['Customer'] = "Cliente";
 $lang['Total'] = "Total";
 $lang['paymentMethod'] = "Metodo de Pago:";
 $lang['method'] = "Método:";
-$lang['Cash'] = "Efectivo";
+$lang['Cash'] = "Programa";
 $lang['Paid'] = "Pagado";
 $lang['ReturnChange'] = "Vuelto";
-$lang['CreditCard'] = "Tarjeta de Credito";
-$lang['CreditCardNum'] = "Numero Tarjeta de Credito(swipe)";
-$lang['CreditCardHold'] = "Mantiene de la tarjeta de crédito";
+$lang['CreditCard'] = "Tarjeta";
+$lang['CreditCardNum'] = "Numero Tarjeta";
+$lang['CreditCardHold'] = "Mantiene de la tarjeta";
 $lang['CODECV'] = "CÓDIGO DE CV";
 $lang['Year'] = "Año";
 $lang['Month'] = "Mes";
-$lang['Cheque'] = "comprobar";
+$lang['Cheque'] = "Cheque";
 $lang['ChequeNum'] = "Número de cheque bancario";
 $lang['SaleNum'] = "Venta Núm:";
 $lang['Date'] = "Fecha";
