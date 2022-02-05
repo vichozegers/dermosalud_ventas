@@ -35,7 +35,7 @@
 */
 
 // The following values will probably need to be changed.
-$db['default']['username'] = "admin";
+$db['default']['username'] = "centrode_wp";
 $db['default']['password'] = "x.5frpt";
 $db['default']['database'] = "centrode_pos";
 
