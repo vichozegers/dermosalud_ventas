@@ -63,6 +63,7 @@ $lang['PurchasePrice'] = "Precio Compra";
 $lang['ProductDescription'] = "Descripcion del Producto";
 $lang['Imageinput'] = "Imagen";
 $lang['AddProduct'] = "Agregar Producto";
+$lang['AddSales'] = "Agregar Ventas";
 $lang['ViewImage'] = "Ver Imagen";
 $lang['ProductImage'] = "Imagen";
 $lang['ProductColor'] = "Elige el color para mostrar en el Punto de Ventas.";
